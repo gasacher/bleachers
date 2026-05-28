@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.mov
+*.mp4
+
+# No usados en el sitio (fuentes / backups)
+assets/videos/
+assets/logo-hero.png
+assets/logo-compact.png
+assets/logo-footer.png
+assets/logo-nav.png
+assets/logo-mark.png
+assets/logo.png
+assets/images/*
+!assets/images/about-grass.jpg
